@@ -149,7 +149,7 @@ main {
 
     .card-content .all-content {
         width: 400px;
-        padding: 70px;
+        padding: 50px;
     }
 
     .all-content h1 {
@@ -165,7 +165,6 @@ main {
 
     .all-content .stats {
         flex-direction: row;
-        justify-content: flex-start;
         align-items: flex-start;
     }
 
